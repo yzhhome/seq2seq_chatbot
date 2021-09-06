@@ -112,3 +112,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+data/xiaohuangji50w_nofenci.conv
+data/xiaohuangji_chatbot_data5.txt
